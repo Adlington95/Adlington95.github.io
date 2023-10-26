@@ -12,7 +12,6 @@
     "search": true,
     "attributes": true,
     "export": true,
-    "settings": true,
   },
   "header": {
     "onboarding": true,
