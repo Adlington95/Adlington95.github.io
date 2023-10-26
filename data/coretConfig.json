@@ -13,7 +13,6 @@
     "attributes": true,
     "export": true,
     "settings": true,
-    "sample_test": true
   },
   "header": {
     "onboarding": true,
