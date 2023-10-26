@@ -5,13 +5,14 @@
     "edit": true,
     "search": true
   },
-  "user": {
+   "user": {
     "add": true,
     "delete": true,
     "edit": true,
     "search": true,
     "attributes": true,
     "export": true,
+    "settings": true
   },
   "header": {
     "onboarding": true,
