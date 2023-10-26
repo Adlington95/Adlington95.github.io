@@ -29,7 +29,7 @@
   "group": {
     "add": true,
     "delete": true,
-    "edit": true,
+    "edit": false,
     "search": true
   },
   "site": {
