@@ -1,4 +1,13 @@
 {
+  "pages": {
+    "customer": true,
+    "user": true,
+    "header": true,
+    "role": true,
+    "group": true,
+    "site": true,
+    "hierarchy": true
+  },
   "customer": {
     "add": true,
     "delete": true,
