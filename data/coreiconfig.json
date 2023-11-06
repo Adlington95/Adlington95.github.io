@@ -3,17 +3,16 @@
     "customer": true,
     "user": true,
     "header": true,
-    "role": true,
-    "group": true,
-    "site": true,
+    "role": false,
+    "group": false,
+    "site": false,
     "hierarchy": true
   },
   "customer": {
     "add": true,
     "delete": true,
     "edit": true,
-    "search": true,
-    "mfe": true
+    "search": true
   },
   "user": {
     "add": true,
@@ -22,41 +21,35 @@
     "search": true,
     "attributes": true,
     "export": true,
-    "settings": true,
-    "mfe": true
+    "settings": true
   },
   "header": {
     "onboarding": true,
     "appLaunch": true,
     "language": true,
-    "profile": true,
-    "mfe": true
+    "profile": true
   },
   "role": {
     "add": true,
     "delete": true,
     "edit": true,
-    "search": true,
-    "mfe": true
+    "search": true
   },
   "group": {
     "add": true,
     "delete": true,
     "edit": true,
-    "search": true,
-    "mfe": true
+    "search": true
   },
   "site": {
     "add": true,
     "delete": true,
     "edit": true,
-    "search": true,
-    "mfe": true
+    "search": true
   },
   "hierarchy": {
     "add": true,
     "delete": true,
-    "edit": true,
-    "mfe": true
+    "edit": true
   }
 }
