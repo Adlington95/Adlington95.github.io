@@ -1,0 +1,55 @@
+{
+  "pages": {
+    "customer": true,
+    "user": true,
+    "header": true,
+    "role": false,
+    "group": false,
+    "site": false,
+    "hierarchy": true
+  },
+  "customer": {
+    "add": true,
+    "delete": true,
+    "edit": true,
+    "search": true
+  },
+  "user": {
+    "add": true,
+    "delete": true,
+    "edit": true,
+    "search": true,
+    "attributes": true,
+    "export": true,
+    "settings": true
+  },
+  "header": {
+    "onboarding": true,
+    "appLaunch": true,
+    "language": true,
+    "profile": true
+  },
+  "role": {
+    "add": true,
+    "delete": true,
+    "edit": true,
+    "search": true
+  },
+  "group": {
+    "add": true,
+    "delete": true,
+    "edit": true,
+    "search": true
+  },
+  "site": {
+    "add": true,
+    "delete": true,
+    "edit": true,
+    "search": true
+  },
+  "hierarchy": {
+    "add": true,
+    "delete": true,
+    "edit": true
+  }
+}
