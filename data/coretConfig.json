@@ -3,7 +3,7 @@
     "customer": true,
     "user": true,
     "header": true,
-    "role": true,
+    "role": false,
     "group": true,
     "site": true,
     "hierarchy": true
