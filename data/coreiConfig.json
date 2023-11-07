@@ -9,7 +9,10 @@
     "hierarchy": false,
     "message_bus": false,
     "application": false,
-    "onboarding": false
+    "onboarding": false,
+    "service_account": false,
+    "translation": false,
+    "notification": false
   },
   "customer": {
     "add": false,
@@ -54,8 +57,8 @@
     "add": true,
     "delete": true,
     "edit": true
-  }, 
-  "login" : {
+  },
+  "login": {
     "defaultLogin": true
   }
 }
