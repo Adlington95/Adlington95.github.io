@@ -53,6 +53,6 @@
     "edit": true
   }, 
   "login" : {
-    "defaulltLogin": true
+    "defaultLogin": true
   },
 }
