@@ -6,7 +6,10 @@
     "role": false,
     "group": true,
     "site": true,
-    "hierarchy": true
+    "hierarchy": true,
+    "message_bus": true,
+    "application": true,
+    "onboarding": true
   },
   "customer": {
     "add": true,
