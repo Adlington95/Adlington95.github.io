@@ -53,6 +53,6 @@
     "edit": true
   }, 
   "login" : {
-    "defaultLogin": true
+    "defaultLogin": false
   }
 }
