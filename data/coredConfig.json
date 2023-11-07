@@ -51,5 +51,8 @@
     "add": true,
     "delete": true,
     "edit": true
+  },
+  "login" : {
+    "defaultLogin": false
   }
 }
