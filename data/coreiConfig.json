@@ -6,30 +6,30 @@
     "role": false,
     "group": false,
     "site": false,
-    "hierarchy": true,
-    "message_bus": true,
-    "application": true,
-    "onboarding": true
+    "hierarchy": false,
+    "message_bus": false,
+    "application": false,
+    "onboarding": false
   },
   "customer": {
-    "add": true,
-    "delete": true,
-    "edit": true,
+    "add": false,
+    "delete": false,
+    "edit": false,
     "search": true
   },
   "user": {
     "add": true,
     "delete": true,
-    "edit": true,
+    "edit": false,
     "search": true,
-    "attributes": true,
-    "export": true,
-    "settings": true
+    "attributes": false,
+    "export": false,
+    "settings": false
   },
   "header": {
-    "onboarding": true,
-    "appLaunch": true,
-    "language": true,
+    "onboarding": false,
+    "appLaunch": false,
+    "language": false,
     "profile": true
   },
   "role": {
