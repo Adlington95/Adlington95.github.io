@@ -7,7 +7,7 @@
     "group": false,
     "site": false,
     "hierarchy": false,
-    "message_bus": false,
+    "message_bus": true,
     "application": false,
     "onboarding": false,
     "service_account": false,
