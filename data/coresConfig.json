@@ -15,7 +15,7 @@
     "notification": false
   },
   "customer": {
-    "add": true,
+    "add": false,
     "delete": false,
     "edit": false,
     "search": true
